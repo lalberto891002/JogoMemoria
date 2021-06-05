@@ -40,13 +40,6 @@ $(document).ready(function(){
     })
 
 function shiftArray() {
-
-
-    /* for(i=0;i<cartas.length;i++);
-     {
-
-
-     }*/
     while (i <= 8) {
         numero = Math.floor(Math.random() * 16 + 1);
         /*numero aleatorio entre 1 y 8*/
