@@ -1,0 +1,65 @@
+table{
+
+    width: 400px;
+    margin: auto;
+    height: 400px;
+    box-shadow: black 0px 0px 20px;
+}
+
+tr{
+    width: 100px;
+    height: 100px;
+
+
+}
+
+td{
+    box-shadow: white 0px 0px 20px;
+
+}
+.card{
+
+        width: 100px;
+        height: 100px;
+       /* background: url("../images/1.jpg");*/
+}
+
+#menu{
+    position: relative;
+    float: right;
+    transform: translate(-200px,-420px);
+    background: darkgray;
+    overflow: hidden;
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: black 0px 0px 20px;
+
+}
+
+h1{
+    font-family: Calibri;
+    color: white;
+    font-size: 30px;
+
+
+}
+
+h2{
+    font-family: Calibri;
+    color: white;
+    font-size: 25px;
+
+
+}
+
+body{
+
+    background: darkgrey;
+
+}
+
+#todo{
+        margin-top: 40px;
+
+
+}
